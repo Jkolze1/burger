@@ -1,6 +1,4 @@
- html {
- 	background-color: #FFC04C;
- }
+
 
  body {
  	width: 75%;
@@ -25,7 +23,7 @@
  }
 
  .burgerAvailable {
- 	font-family: 'Crafty Girls', cursive;
+ 	font-family: 'helvetica', cursive;
  	font-weight: normal;
  	font-size: 20px;
  	text-align: center;
