@@ -37,7 +37,7 @@
  }
 
  .burgerAvailable:hover {
- 	background-color: #81ff94;
+ 	background-color: blue;
  }
 
  .burgerEaten {
@@ -49,7 +49,7 @@
  	border-radius: 25px;
  	margin: 10px;
  	padding: 10px;
- 	background-color: #ffd1c9;
+ 	background-color:yellow;
  }
 
  h2 {
@@ -81,7 +81,5 @@
 	background-color: #FFC04C;
 }
 
-.burgerFooter {
-	background-color: #FFC04C;
-	padding: 20px 0;
+
 }
